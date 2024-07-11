@@ -19,7 +19,7 @@ NotesApp is an Android application that allows users to create, edit, and delete
 
 ## Screenshots
 
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](C:\Users\ABC\AppData\Local\Microsoft\Windows\INetCache\IE\XJH9ABS5\IMG-20240711-WA0006[1].jpg)
 ![Add Note](screenshots/add_note.png)
 ![Edit Note](screenshots/edit_note.png)
 
